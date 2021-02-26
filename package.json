@@ -1,0 +1,19 @@
+{
+  "name": "truxsignaling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "serve": "node ./src/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "log4js": "^6.3.0",
+    "node-static": "^0.7.11",
+    "socket.io": "^3.1.1"
+  }
+}

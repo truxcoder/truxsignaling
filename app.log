@@ -1,0 +1,81 @@
+13:18:38 DEBUG - the user number of room (1) is: 0
+13:18:44 DEBUG - message, room: 1, data, type:undefined
+13:18:52 DEBUG - message, room: 1, data, type:undefined
+14:15:26 DEBUG - the user number of room (1) is: 0
+14:15:30 DEBUG - message, room: 1, data, type:undefined
+14:15:34 DEBUG - message, room: 1, data, type:undefined
+15:33:59 DEBUG - message, room: 1, data, type:undefined
+15:34:07 DEBUG - the user number of room (11) is: 0
+15:34:12 DEBUG - message, room: 11, data, type:undefined
+15:34:34 DEBUG - the user number of room (111) is: 0
+15:34:40 DEBUG - message, room: 111, data, type:undefined
+15:36:34 DEBUG - the user number of room (111) is: 0
+15:36:37 DEBUG - message, room: 111, data, type:undefined
+15:37:18 DEBUG - the user number of room is: 0
+15:37:21 DEBUG - the user number of room (111) is: 0
+15:37:27 DEBUG - message, room: 111, data, type:undefined
+15:45:14 DEBUG - the user number of room (111) is: 0
+15:45:18 DEBUG - message, room: 111, data, type:undefined
+15:50:30 DEBUG - the user number of room (111) is: 0
+15:50:34 DEBUG - message, room: 111, data, type:undefined
+15:51:20 DEBUG - message, room: 111, data, type:undefined
+15:51:24 DEBUG - the user number of room (11) is: 0
+15:51:27 DEBUG - message, room: 11, data, type:undefined
+15:52:56 DEBUG - the user number of room (111) is: 0
+15:53:00 DEBUG - message, room: 111, data, type:undefined
+15:55:03 DEBUG - the user number of room (111) is: 0
+15:55:07 DEBUG - message, room: 111, data, type:undefined
+15:56:48 DEBUG - the user number of room (dddd) is: 0
+15:56:51 DEBUG - message, room: dddd, data, type:undefined
+16:05:53 DEBUG - the user number of room (dd) is: 0
+16:05:55 DEBUG - message, room: dd, data, type:undefined
+16:08:06 DEBUG - the user number of room (ee) is: 0
+16:09:36 DEBUG - the user number of room (dd) is: 0
+16:16:41 DEBUG - the user number of room (11) is: 1
+16:16:57 DEBUG - message, room: 11, data, type:undefined
+16:21:32 DEBUG - the user number of room (111) is: 1
+16:21:36 DEBUG - message, room: 111, data, type:undefined
+16:21:36 DEBUG - message, room: 111, data: admin:dd, type: undefined
+16:23:56 DEBUG - the user number of room (11) is: 1
+16:24:01 DEBUG - message, room: 11, data, type:undefined
+16:24:01 DEBUG - message, room: 11, data: admin:11, type: undefined
+16:33:04 DEBUG - the user number of room (111) is: 1
+16:42:39 DEBUG - the user number of room (dd) is: 1
+16:42:44 DEBUG - message, room: dd, data, type:undefined
+16:42:44 DEBUG - message, room: dd, data: admin:ddd, type: undefined
+16:48:00 DEBUG - the user number of room (dd) is: 1
+16:48:03 DEBUG - message, room: dd, data, type:undefined
+16:48:03 DEBUG - message, room: dd, data: admin:dd, type: undefined
+16:50:19 DEBUG - the user number of room (dd) is: 1
+16:50:21 DEBUG - message, room: dd, data, type:undefined
+16:50:21 DEBUG - message, room: dd, data: admin:dd, type: undefined
+16:56:07 DEBUG - the user number of room (ddd) is: 1
+16:56:11 DEBUG - message, room: ddd, data, type:undefined
+16:56:11 DEBUG - message, room: ddd, data: admin:d, type: undefined
+17:01:47 DEBUG - the user number of room (ddd) is: 1
+17:01:49 DEBUG - message, room: ddd, data, type:undefined
+17:01:49 DEBUG - message, room: ddd, data: admin:dd, type: undefined
+17:04:26 DEBUG - the user number of room (ddd) is: 1
+17:04:29 DEBUG - message, room: ddd, data, type:undefined
+17:04:29 DEBUG - message, room: ddd, data: admin:d, type: undefined
+17:06:24 DEBUG - the user number of room (22) is: 1
+17:06:29 DEBUG - message, room: 22, data, type:undefined
+17:06:29 DEBUG - message, room: 22, data: 22:222, type: undefined
+17:08:26 DEBUG - the user number of room (dd) is: 1
+17:08:29 DEBUG - message, room: dd, data, type:undefined
+17:08:29 DEBUG - message, room: dd, data: dd:dd, type: undefined
+17:14:13 DEBUG - the user number of room (dd) is: 1
+17:14:16 DEBUG - message, room: dd, data, type:undefined
+17:14:16 DEBUG - message, room: dd, data: admin:ddd, type: undefined
+17:14:40 DEBUG - the user number of room (dd) is: 2
+17:15:23 DEBUG - message, room: dd, data, type:undefined
+17:15:23 DEBUG - message, room: dd, data: editor:wwww, type: undefined
+17:15:52 DEBUG - message, room: dd, data, type:undefined
+17:15:52 DEBUG - message, room: dd, data: editor:222, type: undefined
+17:16:48 DEBUG - the user number of room (dd) is: 2
+17:16:59 DEBUG - message, room: dd, data, type:undefined
+17:16:59 DEBUG - message, room: dd, data: admin:ddd, type: undefined
+17:17:08 DEBUG - message, room: dd, data, type:undefined
+17:17:08 DEBUG - message, room: dd, data: editor:ddd, type: undefined
+17:50:03 DEBUG - message, room: dd, data, type:undefined
+17:50:03 DEBUG - message, room: dd, data: admin:vb, type: undefined
